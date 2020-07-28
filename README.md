@@ -1,2 +1,0 @@
-# BaltaWorld
-Balta App Lib
